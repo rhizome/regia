@@ -1,0 +1,1 @@
+require "regia/comment"
